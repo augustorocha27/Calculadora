@@ -1,6 +1,6 @@
 # Checkpoint 1 - Calculadora C#
 
-Projeto desenvolvido para a disciplina de programação, consistindo em uma calculadora de console que realiza operações básicas.
+Projeto desenvolvido para a disciplina de C# Software Development, consistindo em uma calculadora de console que realiza operações básicas.
 
 ## Integrantes
 
