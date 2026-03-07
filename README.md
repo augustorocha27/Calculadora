@@ -24,17 +24,17 @@ Abaixo estão os prints das operações realizadas:
 
 1. Adição
 
-![Adicao](./Print adição.png)
+![Adicao](./adicao.png)
 
 2. Subtração
 
-![Subtracao](./Print subtração.png)
+![Subtracao](./subtracao.png)
 
 3. Multiplicação
 
-![Multiplicacao](./Print multiplicação.png)
+![Multiplicacao](./multiplicacao.png)
 
 4. Divisão
 
-![Divisao](./Print divisão.png)
+![Divisao](./divisao.png)
  
