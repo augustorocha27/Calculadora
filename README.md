@@ -12,6 +12,8 @@ Projeto desenvolvido para a disciplina de C# Software Development, consistindo e
 
 - Erik Yuuta Goto RM558076
 
+- João Pedro Signor Avelar RM558375
+
 ## Menu Principal
 
 O programa apresenta as opções de 1 a 5 para navegação do usuário.
